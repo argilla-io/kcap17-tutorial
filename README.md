@@ -1,4 +1,5 @@
-# kcap17-tutorial
+# KCAP 2017 Tutorial: NLP and Knowledge-based methods with spaCy
+
 Material for tutorial @KCAP 2017 "Hybrid techniques for knowledge-based NLP: Knowledge graphs meet machine learning and all their friends"
 
 # Pre-requisites
